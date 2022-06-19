@@ -1,0 +1,28 @@
+.mainLiveResult{
+    display: inline-block;
+    /* border: 2px solid black; */
+    margin-top: 7rem;
+    width: 100%;
+    text-align: center;
+    
+
+}
+.showResult{
+    border: 1px solid black;
+    width: 50%;
+    margin: auto;
+    height: 15rem;
+    background-color: rgba(153, 205, 50, 0.714);
+    /* background-color: rgba(255, 166, 0, 0.662); */
+}
+
+.resultIcon{
+    height: 6rem;
+    width: 6rem;
+    border: 5px solid white;
+    border-radius: 50%;
+    /* background-color: aliceblue; */
+    margin: -3rem auto;
+    background-image: url('.././images/moneylogo.jpg');
+    background-size: cover;
+}

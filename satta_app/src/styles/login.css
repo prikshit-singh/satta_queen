@@ -1,0 +1,38 @@
+.mainDiv{
+    display: flex;
+    position: absolute;
+    
+    width: 90%;
+    height: 40rem;
+    margin-top: 5rem;
+    margin-left: 5%;
+    padding: 1rem;
+    background-image: url('../images//MoneyMarket.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* border: 2px solid green; */
+    justify-content: center;
+    align-items: center;
+box-shadow: 2px -2px 5px rgba(0, 128, 0, 0.405);
+}
+
+.subdiv{
+    width: 60%;
+    /* margin: auto; */
+   
+    padding: 1rem;
+    /* background-color: rgba(24, 206, 106, 0.656); */
+    /* border: 2px solid green; */
+
+}
+.subdiv1{
+    width: 40%;
+    height: 25rem;
+    /* margin: auto; */
+    
+    padding: 1rem;
+    /* background-color: rgba(24, 206, 106, 0.656); */
+    /* border: 2px solid green; */
+
+}

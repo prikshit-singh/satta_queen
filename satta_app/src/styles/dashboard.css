@@ -1,0 +1,9 @@
+.dashboardMainDiv{
+    display: flex;
+    position: absolute;
+    flex-flow: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 5rem;
+    width: 100%;
+}
